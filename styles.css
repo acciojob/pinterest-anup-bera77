@@ -1,1 +1,28 @@
 /*  your css code here. If applicable */
+.hero{
+	display:flex;
+	justify-content:center;
+	align-items:centre;
+}
+#img1{
+	width:100vw;
+	height:250px;
+	object-fit:cover;
+}
+#explore{
+	color:white;
+	background-color: #e60023;
+	border:0px;
+	border-radius:10px;
+	
+}
+ h2 {
+            margin: 0 0 10px 0;
+            font-size: 2em;
+        }
+        
+        p {
+            margin: 0 0 15px 0;
+            font-size: 1.2em;
+        }
+
